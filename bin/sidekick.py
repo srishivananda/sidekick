@@ -13,6 +13,7 @@ sys.path.append(os.path.dirname(dir))
 # source all skill modules
 from skill.example import *
 from skill.webextract import *
+from skill.llmchat import *
 
 # the command line interface
 def main():

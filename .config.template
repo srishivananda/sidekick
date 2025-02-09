@@ -1,0 +1,8 @@
+[openai]
+api_key = <YOUR-OPENAI-API-KEY>
+
+[anthropic]
+api_key = <YOUR-ANTHROPIC-API-KEY>
+
+[gemini]
+api_key = <YOUR-GEMINI-API-KEY>
